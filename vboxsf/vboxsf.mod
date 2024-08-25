@@ -1,0 +1,12 @@
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxsf/vfsmod.o
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxsf/dirops.o
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxsf/lnkops.o
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxsf/regops.o
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxsf/utils.o
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxsf/VBoxGuestR0LibGenericRequest.o
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxsf/VBoxGuestR0LibHGCM.o
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxsf/VBoxGuestR0LibIdc.o
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxsf/VBoxGuestR0LibIdc-unix.o
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxsf/VBoxGuestR0LibInit.o
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxsf/VBoxGuestR0LibPhysHeap.o
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxsf/VBoxGuestR0LibSharedFolders.o

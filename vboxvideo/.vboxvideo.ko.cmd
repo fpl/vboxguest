@@ -1,0 +1,1 @@
+cmd_/tmp/vboxguest/src/vboxguest-7.0.20/vboxvideo/vboxvideo.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /tmp/vboxguest/src/vboxguest-7.0.20/vboxvideo/vboxvideo.ko /tmp/vboxguest/src/vboxguest-7.0.20/vboxvideo/vboxvideo.o /tmp/vboxguest/src/vboxguest-7.0.20/vboxvideo/vboxvideo.mod.o;  true

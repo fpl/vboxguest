@@ -1,0 +1,11 @@
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxvideo/hgsmi_base.o
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxvideo/modesetting.o
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxvideo/vbox_drv.o
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxvideo/vbox_fb.o
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxvideo/vbox_irq.o
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxvideo/vbox_main.o
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxvideo/vbox_mode.o
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxvideo/vbox_ttm.o
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxvideo/vbva_base.o
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxvideo/vbox_prime.o
+/tmp/vboxguest/src/vboxguest-7.0.20/vboxvideo/vbox_hgsmi.o

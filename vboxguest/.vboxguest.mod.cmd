@@ -1,0 +1,1 @@
+cmd_/tmp/vboxguest/src/vboxguest-7.0.20/vboxguest/vboxguest.mod := printf '%s\n'   VBoxGuest-linux.o VBoxGuest-common.o common/string/strformatrt.o combined-agnostic.o combined-os-specific.o | awk '!x[$$0]++ { print("/tmp/vboxguest/src/vboxguest-7.0.20/vboxguest/"$$0) }' > /tmp/vboxguest/src/vboxguest-7.0.20/vboxguest/vboxguest.mod

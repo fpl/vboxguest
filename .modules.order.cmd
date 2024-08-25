@@ -1,0 +1,1 @@
+cmd_/tmp/vboxguest/src/vboxguest-7.0.20/modules.order := {   cat /tmp/vboxguest/src/vboxguest-7.0.20/vboxguest/modules.order;   cat /tmp/vboxguest/src/vboxguest-7.0.20/vboxsf/modules.order;   cat /tmp/vboxguest/src/vboxguest-7.0.20/vboxvideo/modules.order; :; } > /tmp/vboxguest/src/vboxguest-7.0.20/modules.order

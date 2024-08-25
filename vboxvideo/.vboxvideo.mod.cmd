@@ -1,0 +1,1 @@
+cmd_/tmp/vboxguest/src/vboxguest-7.0.20/vboxvideo/vboxvideo.mod := printf '%s\n'   hgsmi_base.o modesetting.o vbox_drv.o vbox_fb.o vbox_irq.o vbox_main.o vbox_mode.o vbox_ttm.o vbva_base.o vbox_prime.o vbox_hgsmi.o | awk '!x[$$0]++ { print("/tmp/vboxguest/src/vboxguest-7.0.20/vboxvideo/"$$0) }' > /tmp/vboxguest/src/vboxguest-7.0.20/vboxvideo/vboxvideo.mod
